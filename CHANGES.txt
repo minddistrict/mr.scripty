@@ -1,5 +1,5 @@
-1.0 (unreleased)
-================
+1.0+md.1 (2015-06-30)
+=====================
 
 - Add support for Python 3.4. This breaks with Python 2.6 and before.
 
